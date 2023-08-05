@@ -4,8 +4,7 @@ then
   git clone https://github.com/Theprofffesorr/Theprofffesorr /aaaaaaaaaa
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /https://github.com/Theprofffesorr/Theprofffesorr
-fi
+  git clone $UPSTREAM_REPO /Theprofffesorr
 cd /Elsa
 pip3 install -U -r requirements.txt
 echo "𝙎𝙩𝙖𝙧𝙩𝙞𝙣𝙜 𝙀𝙡𝙨𝙖....🧞‍♂️"
