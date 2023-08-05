@@ -41,7 +41,7 @@
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-"value":"1991522624",
+"value":"1977254071",
             "required": true
         },
         "PICS": {
