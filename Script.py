@@ -9,9 +9,9 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ ᴍʏ ʟᴏᴠᴇ: <a href=https://t.me/Mister_Ash>ᴍʏ ᴏᴡɴᴇʀ🥰</a>
-✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/The_Happy_Hour_Hindi>𝙏𝙝𝙚 𝙃𝙖𝙥𝙥𝙮 𝙃𝙤𝙪𝙧™</a>
-✯ ᴍʏ ᴏᴡɴᴇʀ: <a href=https://t.me/Mister_Ash>𝘼𝙨𝙝 𝙆𝙚𝙩𝙘𝙝𝙪𝙢</a>
+✯ ᴍʏ ʟᴏᴠᴇ: <a href=http://t.me/Theprofffesorrr>ᴍʏ ᴏᴡɴᴇʀ🥰</a>
+✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/+O3XaZFmGDQ4xNDg1>Movie Classic Safe Zone</a>
+✯ ᴍʏ ᴏᴡɴᴇʀ: <a href=http://t.me/Theprofffesorrr>Theprofffesorrr</a>
 ✯ ʟɪʙʀᴀʀʏ: ɴᴏ ɪᴅᴇᴀ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ʜɪɴᴅɪ 🇮🇳
 ✯ ᴅᴀᴛᴀʙᴀsᴇ: ꜰʀᴇᴇ ᴠᴀʟᴀ 🤫
