@@ -79,7 +79,7 @@
         },
         "FILE_CHANNEL": {
             "description": "File REDIRECT TO , give Channel id for redirect file eg:-100xxxxxxx.",
-"value":"-1001977254071",
+"value":"-1001901417751",
             "required": true
         },
         "DELETE_CHANNELS": {
