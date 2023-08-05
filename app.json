@@ -26,7 +26,7 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-"value":"521684765",
+"value":"24579842",
             "required": true
         },
         "API_HASH": {
