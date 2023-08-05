@@ -69,6 +69,7 @@
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
+"Value": "cluster0",
             "required": false
         },
         "COLLECTION_NAME": {
